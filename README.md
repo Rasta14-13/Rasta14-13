@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rasta14-13
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Arthur.
+- 👀 I’m interested in programming, sport and jorney
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on GitHub with young programmers like me, for join learning.
-- 📫 How to reach me: call me, baby.
+- 📫 How to reach me: text me, baby.
 
 <!---
 Rasta14-13/Rasta14-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
